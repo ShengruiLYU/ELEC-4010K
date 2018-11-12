@@ -1,0 +1,8 @@
+prefix=/home/shengrui/catkin_ws/install
+
+Name: ball_follower
+Description: Description of ball_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shengrui/catkin_ws/install/lib 
+Requires: 

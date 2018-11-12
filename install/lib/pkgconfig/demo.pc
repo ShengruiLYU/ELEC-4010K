@@ -1,0 +1,8 @@
+prefix=/home/shengrui/catkin_ws/install
+
+Name: demo
+Description: Description of demo
+Version: 0.0.1
+Cflags: -I/home/shengrui/catkin_ws/install/include
+Libs: -L/home/shengrui/catkin_ws/install/lib 
+Requires: roscpp std_msgs message_runtime message_generation

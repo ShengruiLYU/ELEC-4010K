@@ -1,0 +1,8 @@
+prefix=/home/shengrui/catkin_ws/install
+
+Name: flip_image
+Description: Description of flip_image
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shengrui/catkin_ws/install/lib 
+Requires: 

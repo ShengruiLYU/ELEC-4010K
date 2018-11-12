@@ -1,0 +1,2 @@
+ball_follower:demo:flip_image:image_recognition:v_repExtRosInterface
+-DCATKIN_DEVEL_PREFIX=/home/shengrui/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shengrui/catkin_ws/install -G Unix Makefiles
